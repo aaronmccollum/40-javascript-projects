@@ -1,2 +1,2 @@
-# 40-javascript-projects
-JavaScript project ideas from freeCodeCamp
+# 40 JavaScript Projects
+## JavaScript project ideas from freeCodeCamp
