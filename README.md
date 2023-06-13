@@ -5,3 +5,4 @@ Link: https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-t
 ## List of Projects
 - Color Flipper
 - Dark Mode toggle switch
+- Counter App
